@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [groupingSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="groupingTest(failed)">
+    <groups>
+      <run>
+        <include name="sanity"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="zPractice.NewTest">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- zPractice.NewTest -->
+    </classes>
+  </test> <!-- groupingTest(failed) -->
+</suite> <!-- Failed suite [groupingSuite] -->

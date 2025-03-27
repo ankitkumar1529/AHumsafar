@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-26T15:38:26 IST" name="Suite" finished-at="2025-03-26T15:38:29 IST" duration-ms="2833">
+  <suite started-at="2025-03-27T10:52:14 IST" name="Suite" finished-at="2025-03-27T10:52:18 IST" duration-ms="3948">
     <groups>
     </groups>
-    <test started-at="2025-03-26T15:38:26 IST" name="Test" finished-at="2025-03-26T15:38:29 IST" duration-ms="2833">
+    <test started-at="2025-03-27T10:52:14 IST" name="Test" finished-at="2025-03-27T10:52:18 IST" duration-ms="3948">
       <class name="testCases.TC_001_Close_popup">
-        <test-method is-config="true" signature="starup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_Close_popup@6b2ea799]" started-at="2025-03-26T15:38:26 IST" name="starup" finished-at="2025-03-26T15:38:29 IST" duration-ms="2571" status="FAIL">
+        <test-method is-config="true" signature="starup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_Close_popup@6b2ea799]" started-at="2025-03-27T10:52:14 IST" name="starup" finished-at="2025-03-27T10:52:18 IST" duration-ms="3692" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -63,7 +63,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- starup -->
-        <test-method signature="Able_to_close_query_popup()[pri:0, instance:testCases.TC_001_Close_popup@6b2ea799]" started-at="2025-03-26T15:38:29 IST" name="Able_to_close_query_popup" finished-at="2025-03-26T15:38:29 IST" duration-ms="0" status="SKIP">
+        <test-method signature="Able_to_close_query_popup()[pri:0, instance:testCases.TC_001_Close_popup@6b2ea799]" started-at="2025-03-27T10:52:18 IST" name="Able_to_close_query_popup" finished-at="2025-03-27T10:52:18 IST" duration-ms="0" status="SKIP">
           <exception class="java.lang.NullPointerException">
             <full-stacktrace>
               <![CDATA[java.lang.NullPointerException

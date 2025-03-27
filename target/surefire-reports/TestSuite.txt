@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 4.416 s <<< FAILURE! -- in TestSuite
-testCases.TC_001_Close_popup.starup[windows, chrome](0) -- Time elapsed: 3.193 s <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 5.496 s <<< FAILURE! -- in TestSuite
+testCases.TC_001_Close_popup.starup[windows, chrome](0) -- Time elapsed: 4.297 s <<< FAILURE!
 java.lang.NullPointerException
 	at java.base/java.util.Objects.requireNonNull(Objects.java:220)
 	at java.base/java.util.ImmutableCollections$Map1.<init>(ImmutableCollections.java:1114)
